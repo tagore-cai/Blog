@@ -7,7 +7,7 @@ JavaScript深入系列十五篇已经发布完毕，现在进入全面的修订�
 总结篇发布后，一周内开始发布第二个系列：JavaScript专题系列。
 
 ## 深入系列目录
-
+1
 1. [JavaScirpt深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
 2. [JavaScript深入之词法作用域和动态作用域](https://github.com/mqyqingfeng/Blog/issues/3)
 3. [JavaScript深入之执行上下文栈](https://github.com/mqyqingfeng/Blog/issues/4)
